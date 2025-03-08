@@ -1,0 +1,6 @@
+princesharma\PageObjects\ConfirmationPage.class
+princesharma\PageObjects\LandingPage.class
+princesharma\PageObjects\ProductCatalogue.class
+princesharma\PageObjects\CheckoutPage.class
+princesharma\AbstractComponents\AbstractComponents.class
+princesharma\PageObjects\CartPage.class

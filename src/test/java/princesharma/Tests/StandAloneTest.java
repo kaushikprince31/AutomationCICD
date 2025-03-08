@@ -19,6 +19,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// Steps are updated
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		String productName = "ZARA COAT 3";
